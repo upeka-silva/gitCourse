@@ -1,0 +1,19 @@
+.outer{
+    width: 650px;
+    height: 450px;
+    border: 1px solid red;
+}
+
+.items{
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+}
+
+.outer{
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
